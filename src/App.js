@@ -30,6 +30,10 @@ function App() {
     <Router>
       <PageNavbar />
       <Routes>
+      <Route
+          path="/JFIT/"
+          element={<Home />}
+        />
         <Route
           path="/JFIT/Home"
           element={<Home />}

@@ -46,7 +46,7 @@ const Styles = {
     flex: 50%;
   `,
   Hero: styled.h1`
-    font-size: 50px;
+    font-size: 40px;
     padding: 10px;
   `,
   Text: styled.p`

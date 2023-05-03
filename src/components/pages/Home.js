@@ -40,7 +40,7 @@ const Styles = {
     z-index: 1;
   `,
   Hero: styled.p`
-    font-size: 50px;
+    font-size: 40px;
     z-index: 2;
     padding: 5px;
   `,
