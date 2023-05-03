@@ -2,7 +2,7 @@
   "name": "jfit-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jonathangan.myweb.usf.edu/JFIT/",
+  "homepage": "http://jonathangan.myweb.usf.edu/JFIT/Home",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
